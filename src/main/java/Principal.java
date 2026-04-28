@@ -1,5 +1,5 @@
 
-package com.mycompany.exercicio_1;
+
 import java.util.Scanner;
 
 public class Principal {
